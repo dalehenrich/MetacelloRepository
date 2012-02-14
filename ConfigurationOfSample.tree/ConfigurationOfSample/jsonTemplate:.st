@@ -7,9 +7,9 @@ jsonTemplate: spec
 	forceNewFileNamed: 'metacello.json'
 	do: [:fileStream |
 		fileStream lineEndConvention: #lf.
-		MetacelloFileTreeConstructor 
+		MetacelloFileTreeConstructor
 			convertConfiguration: 'ConfigurationOfSample' 
-			version: 'metacello.json' 
+			version: 'metacello' 
 			toJsonOn: fileStream].
   ] 
 	on: MetacelloErrorInProjectConstructionNotification 
@@ -17,7 +17,7 @@ jsonTemplate: spec
 
 	"
 
-    <version: 'metacello.json'>
+    <version: 'metacello'>
     spec
         for: #'common'
         do: [ 

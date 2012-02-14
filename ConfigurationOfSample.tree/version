@@ -1,8 +1,8 @@
-(name 'ConfigurationOfSample-dkh.5'
-message '- feeling comfortable with the Sample configuration. getting closer, but still need to figure role of this configuration since no package detail is present somehow need to pass loadList from #load: through to underlying guy .... '
-id '1102be0c-e841-4ba3-949b-9cef1f9e05d3'
+(name 'ConfigurationOfSample-dkh.6'
+message '- fix jsonTemplate: method'
+id 'fef37459-18cc-4d14-b0c7-65fd52447cb0'
 date '14 February 2012'
-time '11:56:56 am'
+time '12:03:35 pm'
 author 'dkh'
 ancestors ()
 stepChildren ())
