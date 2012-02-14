@@ -1,8 +1,8 @@
-(name 'ConfigurationOfSample-dkh.2'
-message '- experimenting with Configuration the references a filetree repository'
-id '14db6801-a913-4db3-bf8c-3826e470dda5'
+(name 'ConfigurationOfSample-dkh.3'
+message '- another experiment ... creates a project, but there''s a little bit of cheating going on:)'
+id '8c9054c1-a0b3-48e1-a93d-2a1153924b23'
 date '13 February 2012'
-time '3:40:14 pm'
+time '4:16:40 pm'
 author 'dkh'
 ancestors ()
 stepChildren ())
