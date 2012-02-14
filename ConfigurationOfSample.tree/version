@@ -1,8 +1,8 @@
-(name 'ConfigurationOfSample-dkh.4'
-message '- nudge it a little bit more that way ...'
-id '7b0e035a-fe6a-47d6-ba9e-23f653d2cc70'
-date '13 February 2012'
-time '4:25:21 pm'
+(name 'ConfigurationOfSample-dkh.5'
+message '- feeling comfortable with the Sample configuration. getting closer, but still need to figure role of this configuration since no package detail is present somehow need to pass loadList from #load: through to underlying guy .... '
+id '1102be0c-e841-4ba3-949b-9cef1f9e05d3'
+date '14 February 2012'
+time '11:56:56 am'
 author 'dkh'
 ancestors ()
 stepChildren ())

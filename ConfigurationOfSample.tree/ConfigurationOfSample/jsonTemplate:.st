@@ -1,6 +1,6 @@
 
-!ConfigurationOfSample methodsFor: 'baselines'!
-baselineTemplate: spec
+!ConfigurationOfSample methodsFor: 'metacello.json'!
+jsonTemplate: spec
     "used to create the metacello.json file for this project:
 
   [(FileDirectory on: '/foos1/users/dhenrich/smalltalk/sample/')
@@ -9,7 +9,7 @@ baselineTemplate: spec
 		fileStream lineEndConvention: #lf.
 		MetacelloFileTreeConstructor 
 			convertConfiguration: 'ConfigurationOfSample' 
-			version: 'template' 
+			version: 'metacello.json' 
 			toJsonOn: fileStream].
   ] 
 	on: MetacelloErrorInProjectConstructionNotification 
@@ -17,7 +17,7 @@ baselineTemplate: spec
 
 	"
 
-    <version: 'template'>
+    <version: 'metacello.json'>
     spec
         for: #'common'
         do: [ 
