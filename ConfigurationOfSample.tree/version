@@ -1,8 +1,8 @@
-(name 'ConfigurationOfSample-dkh.7'
-message '- reflect Sample project changes made yesterday to github'
-id '26daaf24-8901-4c45-a8cf-54358064ba08'
+(name 'ConfigurationOfSample-dkh.8'
+message 'don''t need jsonTemplate: method now that we''ve got metacello.st to produce metacello.json'
+id 'a375f0d8-a55b-4930-a50a-81dd3a81eb4e'
 date '15 February 2012'
-time '11:00:48 am'
+time '2:11:55 pm'
 author 'dkh'
 ancestors ()
 stepChildren ())
