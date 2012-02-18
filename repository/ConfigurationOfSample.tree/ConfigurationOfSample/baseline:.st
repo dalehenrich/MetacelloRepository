@@ -10,5 +10,5 @@ baseline: spec
                 with: [ 
                     spec
                         version: 'master';
-                        repository: 'github://dalehenrich/sample';
+                        repository: 'github://dalehenrich/sample/repository';
                         yourself ] ]! !
